@@ -1,0 +1,3 @@
+modificar package.json
+modifica las rutas en el pages/App.js
+modificar las rutas del menu
