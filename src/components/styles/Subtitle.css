@@ -1,0 +1,30 @@
+.subtitle-header {
+    text-align: center;
+    padding-bottom: 40px;
+    margin-bottom: 50px;
+  }
+  
+  .subtitle-header h2 {
+    font-size: 13px;
+    letter-spacing: 1px;
+    font-weight: 700;
+    margin: 0;
+    color: #4154f1;
+    text-transform: uppercase;
+  }
+  
+  .subtitle-header p {
+    margin: 10px 0 0 0;
+    padding: 0;
+    font-size: 38px;
+    line-height: 42px;
+    font-weight: 700;
+    color: #012970;
+  }
+  
+  @media (max-width: 768px) {
+    .subtitle-header p {
+      font-size: 28px;
+      line-height: 32px;
+    }
+  }
